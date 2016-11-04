@@ -1,6 +1,7 @@
 {
-  "name": "webpack-rails-example",
+  "name": "elm-on-rails",
   "version": "0.0.1",
+  "private": true,
   "license": "MIT",
   "dependencies": {
     "stats-webpack-plugin": "^0.2.1",
